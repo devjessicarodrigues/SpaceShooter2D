@@ -29,7 +29,7 @@ Sua missão é simples, mas crítica: sobreviver, lutar e desvendar a verdade es
 
 ## 🚀 Jogue Agora
 
-Acesse o jogo diretamente no [**Itch.io**](https://chronoshyperion.itch.io/dark-forest-hypothesis)
+Acesse o jogo diretamente no [**Itch.io**](https://itsxjazz.itch.io/dark-forest-hypothesis)
 
 ---
 
