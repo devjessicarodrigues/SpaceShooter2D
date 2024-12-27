@@ -2,7 +2,7 @@
 
 ## Sobre o Jogo
 
-Dark Forest Hypothesis é um jogo 2D de tiro espacial top-down, desenvolvido na Unity, inspirado por temas de ficção científica e no conceito da Floresta Negra" da astrofísica moderna.
+Dark Forest Hypothesis é um jogo 2D de tiro espacial top-down, desenvolvido na Unity, inspirado por temas de ficção científica e no conceito da Floresta Negra da astrofísica moderna.
 
 ---
 
@@ -35,9 +35,11 @@ Acesse o jogo diretamente no [**Itch.io**](https://itsxjazz.itch.io/dark-forest-
 
 ## 📸 Imagens do jogo e Gameplay
 
+### Imagens
 ![Foto 1 do jogo](https://img.itch.zone/aW1hZ2UvMzE3Nzg5Ni8xODk3NjI2MC5wbmc=/347x500/y6JRSO.png)
 ![Foto 2 do jogo](https://img.itch.zone/aW1hZ2UvMzE3Nzg5Ni8xODk3NjI3OC5wbmc=/347x500/gcP9mZ.png)
 
+### Gameplay
 [![Vídeo do Jogo](https://img.youtube.com/vi/kEQGWFxeA0Q/0.jpg)](https://youtu.be/kEQGWFxeA0Q)
 
 
